@@ -1,0 +1,16 @@
+{
+  "name": "tree-diagram",
+  "version": "1.0.0",
+  "description": "how does this work",
+  "main": "bot.js",
+  "author": "Daryll Ko",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
